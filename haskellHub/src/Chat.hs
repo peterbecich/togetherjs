@@ -1,3 +1,5 @@
+{-# LANGUAGE OverloadedStrings #-}
+
 module Chat where
 
 import           Data.Aeson (Value(..), object, (.=))

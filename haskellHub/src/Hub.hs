@@ -1,3 +1,5 @@
+{-# LANGUAGE OverloadedStrings #-}
+
 module Hub where
 
 import           Data.Aeson (Value(..), object, (.=))
